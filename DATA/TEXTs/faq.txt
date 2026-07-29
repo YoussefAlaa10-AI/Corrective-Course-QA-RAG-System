@@ -1,0 +1,293 @@
+FUTURETECH UNIVERSITY
+FREQUENTLY ASKED QUESTIONS (FAQ)
+=================================
+Last Updated: July 15, 2026
+Maintained by: Office of Student Affairs, Building C, Room C-050
+
+This document answers common questions from prospective students, current students,
+faculty, and parents. For topics not covered here, consult the relevant policy
+document (student_handbook.pdf, admission_guide.pdf, tuition_policy.pdf,
+academic_regulations.pdf, library_rules.pdf) or contact the appropriate office
+listed in campus_services.docx.
+
+=================================
+SECTION 1: ADMISSIONS
+=================================
+
+Q1: What are the minimum requirements to apply to FutureTech University?
+A1: Applicants must hold a recognized secondary school certificate (or equivalent)
+with a minimum overall grade of 75%, along with satisfactory results on the FTU
+Admission Assessment. Full details are in admission_guide.pdf, Section 2
+"Admission Requirements."
+
+Q2: When is the application deadline for the Fall 2026 semester?
+A2: The regular application deadline for Fall 2026 is August 15, 2026. A late
+application window remains open until August 29, 2026 with a $50 late
+application fee. See admission_guide.pdf, Section 5 "Application Deadlines."
+
+Q3: Can international students apply to FutureTech University?
+A3: Yes. International students follow the same general process but must also
+submit a certified secondary school equivalency evaluation, a valid passport
+copy, proof of English proficiency (IELTS 6.0 or TOEFL iBT 79 minimum), and
+proof of financial support. See admission_guide.pdf, Section 4.
+
+Q4: Is there an entrance exam?
+A4: Applicants to Engineering, Computer Science, and Artificial Intelligence &
+Data Science programs must sit the FTU Admission Assessment covering mathematics
+and logical reasoning. Business Administration and Architecture applicants
+submit a portfolio or personal statement instead. Details are in
+admission_guide.pdf, Section 6 "Admission Process."
+
+Q5: How do I check my application status?
+A5: Log into the Applicant Portal at apply.futuretech.edu.eg using the reference
+number emailed to you after submission. Status updates are also sent by email
+from admissions@futuretech.edu.eg.
+
+Q6: Can I transfer credits from another university?
+A6: Yes, subject to review by the relevant department chair. A maximum of 60
+credit hours may be transferred, and a minimum grade of C is required for any
+transferred course. Contact the Registrar's Office for a transfer credit
+evaluation.
+
+Q7: Does FutureTech University offer conditional admission for students who
+have not yet met the English proficiency requirement?
+A7: Yes. Conditional admission is available with enrollment in the Academic
+English Bridge Program for one semester prior to beginning degree coursework.
+
+Q8: What documents are required at the time of application?
+A8: Secondary school certificate, official transcript, passport-sized photos,
+copy of national ID or passport, and (for international applicants) equivalency
+certification. The complete checklist is in admission_guide.pdf, Section 3
+"Required Documents."
+
+=================================
+SECTION 2: TUITION AND FINANCES
+=================================
+
+Q9: How much is tuition per semester?
+A9: Tuition varies by college. As of the 2026-2027 academic year, tuition
+ranges from $2,300 to $3,400 per semester depending on the program. Full
+breakdown is in tuition_policy.pdf, Section 1 "Tuition Fees."
+
+Q10: Can I pay tuition in installments?
+A10: Yes. FutureTech University offers a 3-installment plan (40% / 30% / 30%)
+with a $25 administrative fee. See tuition_policy.pdf, Section 3 "Installment
+Plans."
+
+Q11: What happens if I pay tuition late?
+A11: A late payment penalty of 2% of the outstanding balance is applied for
+each week the payment is overdue, up to a maximum of 10%. Students with unpaid
+balances after 30 days may face registration holds. See tuition_policy.pdf,
+Section 5 "Late Payment Penalties."
+
+Q12: What is the refund policy if I withdraw from a course?
+A12: Refunds are calculated on a sliding scale: 100% refund if withdrawn
+within the first week of the semester, 75% within the second week, 50% within
+the third week, and no refund after the fourth week. See tuition_policy.pdf,
+Section 4 "Refund Policy," and note that withdrawal from courses is also
+governed by academic_regulations.pdf, Section 4 "Withdrawal Policy."
+
+Q13: Where is the Financial Office located?
+A13: The Financial Office is located in Building C, Room C-020, open Sunday
+through Thursday, 9:00 AM to 3:00 PM. Contact: finance@futuretech.edu.eg,
++20 2 2589 3200.
+
+Q14: Are there scholarships available?
+A14: Yes, FutureTech University offers Merit-Based, Need-Based, Athletic, and
+Departmental Scholarships. See scholarship_info.txt for eligibility and
+required GPA for each type.
+
+Q15: Does financial aid cover housing and books?
+A15: Standard scholarships cover tuition only. The Full-Ride Presidential
+Scholarship additionally covers on-campus housing; textbooks are not covered
+under any scholarship category.
+
+=================================
+SECTION 3: ACADEMIC POLICIES
+=================================
+
+Q16: What GPA do I need to remain in good academic standing?
+A16: Students must maintain a cumulative GPA of 2.0 or higher. Falling below
+2.0 results in Academic Probation. See academic_regulations.pdf, Section 2
+"Academic Probation."
+
+Q17: How is the GPA calculated?
+A17: FutureTech University uses a 4.0 scale. Each letter grade corresponds to
+a grade point value (A = 4.0, A- = 3.7, B+ = 3.3, and so on) multiplied by
+credit hours, summed, and divided by total credit hours attempted. Full grading
+scale is in academic_regulations.pdf, Section 1.
+
+Q18: What happens if I miss a final exam?
+A18: Students who miss a final exam due to a documented medical or personal
+emergency may request a make-up exam through the Registrar's Office within 5
+working days of the missed exam. See academic_regulations.pdf, Section 6
+"Make-up Exams."
+
+Q19: How many absences are allowed per course?
+A19: Students may not exceed 20% unexcused absences in any course. Exceeding
+this limit results in a "WF" (Withdrawn-Failing) grade. See
+student_handbook.pdf, Section 4 "Attendance Policy."
+
+Q20: Can I appeal a final grade?
+A20: Yes. Grade appeals must be submitted in writing to the Office of the
+Registrar within 10 working days of grade posting. See academic_regulations.pdf,
+Section 8 "Appeals Process."
+
+Q21: What are the graduation requirements?
+A21: Students must complete all required credit hours for their major
+(typically 132-152 credit hours depending on the program), maintain a
+cumulative GPA of at least 2.0, and complete a graduation project or
+internship. See student_handbook.pdf, Section 6 "Graduation Requirements."
+
+Q22: How do I withdraw from a course without academic penalty?
+A22: Course withdrawal must be submitted before the end of Week 10 of the
+semester and results in a "W" grade, which does not affect GPA. Withdrawals
+after Week 10 result in a "WF." See academic_regulations.pdf, Section 4.
+
+Q23: What is Academic Probation and how long does it last?
+A23: Academic Probation is a formal warning status for students whose
+cumulative GPA falls below 2.0. Students remain on probation for one semester,
+during which they must raise their GPA to 2.0 or above or face suspension.
+
+=================================
+SECTION 4: STUDENT LIFE AND CONDUCT
+=================================
+
+Q24: What are my rights as a student at FutureTech University?
+A24: Student rights, including the right to fair evaluation, freedom of
+expression within university guidelines, and access to grievance procedures,
+are detailed in student_handbook.pdf, Section 2 "Student Rights."
+
+Q25: What behavior violates the Student Code of Conduct?
+A25: Violations include academic dishonesty (cheating, plagiarism), harassment,
+property damage, and unauthorized access to university systems. See
+student_handbook.pdf, Section 5 "Student Code of Conduct."
+
+Q26: Where can I report an incident of harassment or misconduct?
+A26: Reports can be filed confidentially with the Office of Student Affairs
+(Building C, Room C-050) or through the online reporting form on the student
+portal.
+
+Q27: Is there a dress code at FutureTech University?
+A27: There is no strict dress code, but attire must be appropriate for an
+academic and professional environment; safety attire is mandatory in
+engineering labs and workshops.
+
+Q28: What clubs and student organizations are available?
+A28: FutureTech University hosts over 25 student organizations including the
+Robotics Club, AI Society, Entrepreneurship Club, Debate Society, and multiple
+sports teams. Registration occurs through the Student Affairs Office each
+September.
+
+=================================
+SECTION 5: LIBRARY SERVICES
+=================================
+
+Q29: What are the library's opening hours?
+A29: The Main Library (Library Building, Ground to 3rd Floor) is open Sunday
+through Thursday, 8:00 AM to 10:00 PM, and Saturday, 10:00 AM to 6:00 PM.
+Closed on Fridays. See library_rules.pdf, Section 3 "Opening Hours."
+
+Q30: How many books can I borrow at a time?
+A30: Undergraduate students may borrow up to 5 books for 14 days; graduate
+students may borrow up to 8 books for 21 days. See library_rules.pdf, Section
+2 "Borrowing Rules."
+
+Q31: What is the penalty for a late book return?
+A31: A fine of $0.50 per day per book is charged, up to a maximum of $15 per
+item. See library_rules.pdf, Section 5 "Late Return Penalties."
+
+Q32: Can I reserve a study room?
+A32: Yes. Study rooms may be reserved for up to 3 hours per day via the
+library portal or the front desk on the Ground Floor. See library_rules.pdf,
+Section 6 "Study Room Reservation."
+
+Q33: Does the library provide access to digital journals and databases?
+A33: Yes. The library subscribes to IEEE Xplore, ScienceDirect, SpringerLink,
+and JSTOR, accessible on campus or remotely via the library VPN with your
+student credentials. See library_rules.pdf, Section 4 "Digital Resources."
+
+=================================
+SECTION 6: CAMPUS SERVICES
+=================================
+
+Q34: How do I get IT support for my student account or Wi-Fi issues?
+A34: Contact the IT Support Desk in Building B, Room B-010, or email
+itsupport@futuretech.edu.eg. Walk-in hours are Sunday through Thursday,
+8:00 AM to 6:00 PM. See campus_services.docx, Section 1.
+
+Q35: Where is the on-campus medical clinic and what services does it offer?
+A35: The Medical Clinic is located on the Ground Floor of the Student Center,
+open Sunday through Thursday, 8:00 AM to 5:00 PM, offering first aid, general
+consultations, and referrals to partner hospitals. See campus_services.docx,
+Section 3.
+
+Q36: Does the university provide transportation?
+A36: Yes. FutureTech University operates shuttle buses on 6 routes covering
+major districts, departing every 30 minutes from 6:30 AM to 8:30 PM. Route
+maps and schedules are available from the Transportation Office in the
+Student Center. See campus_services.docx, Section 4.
+
+Q37: What dining options are available on campus?
+A37: The main cafeteria in the Student Center serves breakfast, lunch, and
+dinner, and there are additional cafés in Building A and Building C. See
+campus_services.docx, Section 5.
+
+Q38: How do I apply for on-campus housing?
+A38: Applications for on-campus housing are submitted through the Housing
+Office (Student Center, Room SC-102) each semester; priority is given to
+first-year and international students. See campus_services.docx, Section 6.
+
+Q39: Does the university offer career counseling and internship placement?
+A39: Yes, the Career Center (Building C, Room C-060) offers resume workshops,
+mock interviews, and an internship placement program with over 150 partner
+companies. See campus_services.docx, Section 7.
+
+=================================
+SECTION 7: MISCELLANEOUS / AMBIGUOUS QUERIES
+=================================
+The following are examples of common but ambiguous questions students ask;
+answering them well typically requires clarifying which office, policy, or
+document the student actually means.
+
+Q40: "How do I get my money back?"
+A40: This depends on context. If referring to a course withdrawal refund, see
+tuition_policy.pdf, Section 4 "Refund Policy." If referring to a scholarship
+overpayment or duplicate payment, contact the Financial Office directly at
+finance@futuretech.edu.eg.
+
+Q41: "Where do I go if I have a problem?"
+A41: This depends on the type of problem. Academic issues (grades, exams) go
+to the Registrar's Office; conduct or harassment issues go to Student Affairs;
+technical issues go to IT Support; billing issues go to the Financial Office.
+See campus_services.docx for a full office directory.
+
+Q42: "Can I still register?"
+A42: This depends on the deadline in question. Course registration for Fall
+2026 closes on September 5, 2026 (add/drop period). Late registration with a
+$40 fee is allowed until September 12, 2026. After that date, registration
+requires Dean's approval.
+
+Q43: "I missed something, what do I do?"
+A43: If you missed a final exam, see academic_regulations.pdf, Section 6
+"Make-up Exams." If you missed a payment deadline, see tuition_policy.pdf,
+Section 5 "Late Payment Penalties." If you missed an admission deadline, see
+admission_guide.pdf, Section 5.
+
+Q44: What is the difference between Academic Probation and Suspension?
+A44: Academic Probation is a warning status for one semester when GPA falls
+below 2.0. Academic Suspension occurs if a student fails to restore their GPA
+to 2.0 or above by the end of the probation semester, resulting in mandatory
+withdrawal for at least one semester. See academic_regulations.pdf, Section 2.
+
+Q45: How do I contact my academic advisor?
+A45: Academic advisors are assigned by department. Contact information for
+department chairs and faculty is listed in faculty_contacts.docx and
+faculty_directory.csv. Students can also find their assigned advisor's name
+on the student portal under "My Advisor."
+
+=================================
+END OF FAQ DOCUMENT
+For additional questions, contact the Office of Student Affairs at
+studentaffairs@futuretech.edu.eg or +20 2 2589 3050.
+=================================

@@ -1,0 +1,71 @@
+Course Code,Course Name,Exam Date,Exam Time,Building,Room
+CSC101,Introduction to Programming,"December 23, 2026",2:00 PM - 4:00 PM,Building B,B-101
+CSC102,Data Structures,"December 20, 2026",4:30 PM - 6:30 PM,Building B,B-102
+CSC201,Algorithms Design & Analysis,"December 23, 2026",11:30 AM - 1:30 PM,Building B,Exam Hall 3
+CSC210,Object-Oriented Programming,"December 22, 2026",11:30 AM - 1:30 PM,Building B,B-107
+CSC220,Database Systems,"December 24, 2026",11:30 AM - 1:30 PM,Building B,B-108
+CSC230,Operating Systems,"December 20, 2026",4:30 PM - 6:30 PM,Building B,Exam Hall 9
+CSC301,Computer Networks,"December 20, 2026",9:00 AM - 11:00 AM,Building B,Exam Hall 5
+CSC310,Software Engineering,"December 23, 2026",11:30 AM - 1:30 PM,Building B,Exam Hall 8
+CSC320,Web Application Development,"December 21, 2026",2:00 PM - 4:00 PM,Building B,B-113
+CSC401,Compiler Design,"December 24, 2026",4:30 PM - 6:30 PM,Building B,Exam Hall 6
+CSC410,Distributed Systems,"December 17, 2026",11:30 AM - 1:30 PM,Building B,B-116
+CSC420,Cybersecurity Fundamentals,"December 17, 2026",4:30 PM - 6:30 PM,Building B,Exam Hall 12
+AID101,Introduction to Artificial Intelligence,"December 23, 2026",4:30 PM - 6:30 PM,Building B,Exam Hall 11
+AID201,Machine Learning I,"December 16, 2026",4:30 PM - 6:30 PM,Building B,B-106
+AID202,Machine Learning II,"December 16, 2026",2:00 PM - 4:00 PM,Building B,B-108
+AID210,Data Mining & Analytics,"December 23, 2026",9:00 AM - 11:00 AM,Building B,B-109
+AID220,Deep Learning,"December 23, 2026",9:00 AM - 11:00 AM,Building B,B-110
+AID230,Computer Vision,"December 22, 2026",11:30 AM - 1:30 PM,Building B,Exam Hall 5
+AID301,Natural Language Processing,"December 21, 2026",4:30 PM - 6:30 PM,Building B,B-114
+AID310,Big Data Systems,"December 21, 2026",4:30 PM - 6:30 PM,Building B,B-115
+AID320,Statistics for Data Science,"December 23, 2026",9:00 AM - 11:00 AM,Building B,B-117
+AID401,Reinforcement Learning,"December 17, 2026",2:00 PM - 4:00 PM,Building B,B-120
+EEE101,Circuit Analysis I,"December 15, 2026",4:30 PM - 6:30 PM,Building A,A-101
+EEE102,Circuit Analysis II,"December 15, 2026",4:30 PM - 6:30 PM,Building A,Exam Hall 5
+EEE201,Digital Logic Design,"December 14, 2026",9:00 AM - 11:00 AM,Building A,Exam Hall 1
+EEE210,Electromagnetic Fields,"December 20, 2026",2:00 PM - 4:00 PM,Building A,Exam Hall 3
+EEE220,Signals & Systems,"December 17, 2026",4:30 PM - 6:30 PM,Building A,A-108
+EEE301,Power Systems Analysis,"December 16, 2026",11:30 AM - 1:30 PM,Building A,Exam Hall 10
+EEE310,Control Systems,"December 22, 2026",11:30 AM - 1:30 PM,Building A,Exam Hall 10
+EEE320,Embedded Systems Design,"December 16, 2026",11:30 AM - 1:30 PM,Building A,Exam Hall 5
+EEE401,Telecommunications Engineering,"December 23, 2026",2:00 PM - 4:00 PM,Building A,A-116
+MEC101,Engineering Mechanics - Statics,"December 23, 2026",2:00 PM - 4:00 PM,Building A,A-103
+MEC102,Engineering Mechanics - Dynamics,"December 16, 2026",9:00 AM - 11:00 AM,Building A,Exam Hall 6
+MEC201,Thermodynamics I,"December 20, 2026",4:30 PM - 6:30 PM,Building A,A-108
+MEC210,Fluid Mechanics,"December 23, 2026",2:00 PM - 4:00 PM,Building A,Exam Hall 7
+MEC220,Mechanics of Materials,"December 23, 2026",9:00 AM - 11:00 AM,Building A,Exam Hall 10
+MEC301,Manufacturing Processes,"December 21, 2026",2:00 PM - 4:00 PM,Building A,A-115
+MEC310,Machine Design,"December 20, 2026",9:00 AM - 11:00 AM,Building A,A-116
+MEC320,Robotics & Automation,"December 22, 2026",2:00 PM - 4:00 PM,Building A,Exam Hall 11
+MEC401,Heat Transfer,"December 14, 2026",4:30 PM - 6:30 PM,Building A,A-120
+BUS101,Principles of Management,"December 20, 2026",11:30 AM - 1:30 PM,Building C,C-101
+BUS102,Principles of Marketing,"December 21, 2026",11:30 AM - 1:30 PM,Building C,C-103
+BUS201,Financial Accounting,"December 20, 2026",11:30 AM - 1:30 PM,Building C,C-106
+BUS210,Managerial Economics,"December 14, 2026",2:00 PM - 4:00 PM,Building C,C-109
+BUS220,Business Statistics,"December 14, 2026",2:00 PM - 4:00 PM,Building C,C-110
+BUS301,Corporate Finance,"December 15, 2026",2:00 PM - 4:00 PM,Building C,Exam Hall 7
+BUS310,Organizational Behavior,"December 16, 2026",11:30 AM - 1:30 PM,Building C,Exam Hall 9
+BUS320,Entrepreneurship & Innovation,"December 21, 2026",2:00 PM - 4:00 PM,Building C,C-117
+BUS401,Strategic Management,"December 20, 2026",4:30 PM - 6:30 PM,Building C,C-120
+ARC101,Architectural Design Studio I,"December 20, 2026",2:00 PM - 4:00 PM,Building D,D-102
+ARC102,Architectural Design Studio II,"December 23, 2026",9:00 AM - 11:00 AM,Building D,Exam Hall 4
+ARC201,History of Architecture,"December 22, 2026",2:00 PM - 4:00 PM,Building D,Exam Hall 7
+ARC210,Building Materials & Construction,"December 14, 2026",2:00 PM - 4:00 PM,Building D,D-107
+ARC220,Structural Systems for Architects,"December 23, 2026",2:00 PM - 4:00 PM,Building D,D-110
+ARC301,Urban Planning Principles,"December 20, 2026",4:30 PM - 6:30 PM,Building D,D-112
+ARC310,Interior Design Studio,"December 21, 2026",9:00 AM - 11:00 AM,Building D,D-114
+BME101,Introduction to Biomedical Engineering,"December 23, 2026",9:00 AM - 11:00 AM,Building A,A-102
+BME201,Human Physiology for Engineers,"December 24, 2026",2:00 PM - 4:00 PM,Building A,A-104
+BME210,Biomedical Instrumentation,"December 17, 2026",9:00 AM - 11:00 AM,Building A,A-105
+BME220,Medical Imaging Systems,"December 23, 2026",2:00 PM - 4:00 PM,Building A,A-106
+BME301,Biomaterials,"December 15, 2026",11:30 AM - 1:30 PM,Building A,Exam Hall 1
+BME310,Rehabilitation Engineering,"December 20, 2026",4:30 PM - 6:30 PM,Building A,Exam Hall 4
+MTH101,Calculus I,"December 24, 2026",11:30 AM - 1:30 PM,Building B,Exam Hall 6
+MTH102,Calculus II,"December 24, 2026",4:30 PM - 6:30 PM,Building B,B-104
+MTH201,Linear Algebra,"December 16, 2026",4:30 PM - 6:30 PM,Building B,B-106
+MTH210,Differential Equations,"December 23, 2026",4:30 PM - 6:30 PM,Building B,B-107
+MTH220,Probability & Statistics,"December 20, 2026",9:00 AM - 11:00 AM,Building B,B-108
+PHY101,Physics I - Mechanics,"December 17, 2026",4:30 PM - 6:30 PM,Building B,Exam Hall 4
+PHY102,Physics II - Electromagnetism,"December 21, 2026",9:00 AM - 11:00 AM,Building B,B-112
+CHM101,General Chemistry,"December 21, 2026",2:00 PM - 4:00 PM,Building B,Exam Hall 5

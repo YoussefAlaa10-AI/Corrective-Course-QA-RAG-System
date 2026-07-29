@@ -1,0 +1,71 @@
+Course Code,Course Name,Instructor,Department,Day,Time,Room
+CSC101,Introduction to Programming,Dr. Nadia Radwan,Department of Computer Science,Tuesday,11:20 AM - 12:50 PM,B-101
+CSC102,Data Structures,Prof. Yasmin Nour,Department of Computer Science,Tuesday,1:00 PM - 2:30 PM,B-102
+CSC201,Algorithms Design & Analysis,Eng. Mohamed Shaker,Department of Computer Science,Thursday,2:40 PM - 4:10 PM,B-105
+CSC210,Object-Oriented Programming,Mr. Karim Rif'at,Department of Computer Science,Tuesday,8:00 AM - 9:30 AM,B-107
+CSC220,Database Systems,Dr. Mahmoud Kamel,Department of Computer Science,Monday,1:00 PM - 2:30 PM,B-108
+CSC230,Operating Systems,Dr. Mahmoud Kamel,Department of Computer Science,Tuesday,11:20 AM - 12:50 PM,B-110
+CSC301,Computer Networks,Dr. Nadia Radwan,Department of Computer Science,Tuesday,2:40 PM - 4:10 PM,B-111
+CSC310,Software Engineering,Dr. Khaled Anderson,Department of Computer Science,Monday,8:00 AM - 9:30 AM,B-112
+CSC320,Web Application Development,Mr. Karim Rif'at,Department of Computer Science,Wednesday,2:40 PM - 4:10 PM,B-113
+CSC401,Compiler Design,Eng. Mohamed Shaker,Department of Computer Science,Wednesday,1:00 PM - 2:30 PM,B-114
+CSC410,Distributed Systems,Prof. Yasmin Nour,Department of Computer Science,Tuesday,9:40 AM - 11:10 AM,B-116
+CSC420,Cybersecurity Fundamentals,Dr. Reem Fathallah,Department of Computer Science,Tuesday,4:20 PM - 5:50 PM,B-119
+AID101,Introduction to Artificial Intelligence,Dr. Heba Mahmoud,Department of Artificial Intelligence & Data Science,Wednesday,2:40 PM - 4:10 PM,B-103
+AID201,Machine Learning I,Dr. Heba Mahmoud,Department of Artificial Intelligence & Data Science,Wednesday,4:20 PM - 5:50 PM,B-106
+AID202,Machine Learning II,Dr. Heba Mahmoud,Department of Artificial Intelligence & Data Science,Tuesday,4:20 PM - 5:50 PM,B-108
+AID210,Data Mining & Analytics,Dr. Amr Ezzat,Department of Artificial Intelligence & Data Science,Tuesday,11:20 AM - 12:50 PM,B-109
+AID220,Deep Learning,Mr. Khaled Sabry,Department of Artificial Intelligence & Data Science,Monday,11:20 AM - 12:50 PM,B-110
+AID230,Computer Vision,Eng. Ahmed Ziada,Department of Artificial Intelligence & Data Science,Monday,9:40 AM - 11:10 AM,B-111
+AID301,Natural Language Processing,Dr. Khaled Salem,Department of Artificial Intelligence & Data Science,Tuesday,4:20 PM - 5:50 PM,B-114
+AID310,Big Data Systems,Eng. Ahmed Ziada,Department of Artificial Intelligence & Data Science,Thursday,11:20 AM - 12:50 PM,B-115
+AID320,Statistics for Data Science,Ms. Reem El-Sayed,Department of Artificial Intelligence & Data Science,Tuesday,9:40 AM - 11:10 AM,B-117
+AID401,Reinforcement Learning,Dr. Mostafa Selim,Department of Artificial Intelligence & Data Science,Tuesday,8:00 AM - 9:30 AM,B-120
+EEE101,Circuit Analysis I,Eng. Ibrahim Farouk,Department of Electrical & Electronics Engineering,Monday,11:20 AM - 12:50 PM,A-101
+EEE102,Circuit Analysis II,Dr. Hossam Kader,Department of Electrical & Electronics Engineering,Thursday,11:20 AM - 12:50 PM,A-104
+EEE201,Digital Logic Design,Mr. Marwa Mansour,Department of Electrical & Electronics Engineering,Wednesday,8:00 AM - 9:30 AM,A-105
+EEE210,Electromagnetic Fields,Dr. Sameh Ghali,Department of Electrical & Electronics Engineering,Tuesday,1:00 PM - 2:30 PM,A-107
+EEE220,Signals & Systems,Dr. Hala Rashad,Department of Electrical & Electronics Engineering,Tuesday,9:40 AM - 11:10 AM,A-108
+EEE301,Power Systems Analysis,Ms. Amr Mansour,Department of Electrical & Electronics Engineering,Wednesday,8:00 AM - 9:30 AM,A-109
+EEE310,Control Systems,Ms. Michael Rif'at,Department of Electrical & Electronics Engineering,Wednesday,8:00 AM - 9:30 AM,A-112
+EEE320,Embedded Systems Design,Dr. Hossam Kader,Department of Electrical & Electronics Engineering,Monday,9:40 AM - 11:10 AM,A-115
+EEE401,Telecommunications Engineering,Ms. Amr Mansour,Department of Electrical & Electronics Engineering,Sunday,9:40 AM - 11:10 AM,A-116
+MEC101,Engineering Mechanics - Statics,Ms. Ayman Farouk,Department of Mechanical Engineering,Wednesday,2:40 PM - 4:10 PM,A-103
+MEC102,Engineering Mechanics - Dynamics,Dr. Sameh Rif'at,Department of Mechanical Engineering,Thursday,9:40 AM - 11:10 AM,A-106
+MEC201,Thermodynamics I,Dr. Nada Wahba,Department of Mechanical Engineering,Wednesday,1:00 PM - 2:30 PM,A-108
+MEC210,Fluid Mechanics,Eng. Amr Rif'at,Department of Mechanical Engineering,Wednesday,11:20 AM - 12:50 PM,A-111
+MEC220,Mechanics of Materials,Eng. Amr Rif'at,Department of Mechanical Engineering,Sunday,2:40 PM - 4:10 PM,A-114
+MEC301,Manufacturing Processes,Dr. Mahmoud Farouk,Department of Mechanical Engineering,Monday,4:20 PM - 5:50 PM,A-115
+MEC310,Machine Design,Dr. Mariam Shaker,Department of Mechanical Engineering,Sunday,9:40 AM - 11:10 AM,A-116
+MEC320,Robotics & Automation,Ms. Rania Gaber,Department of Mechanical Engineering,Thursday,8:00 AM - 9:30 AM,A-117
+MEC401,Heat Transfer,Dr. Tarek Abou-Zeid,Department of Mechanical Engineering,Wednesday,1:00 PM - 2:30 PM,A-120
+BUS101,Principles of Management,Dr. Hossam Wahba,Department of Business Administration,Tuesday,8:00 AM - 9:30 AM,C-101
+BUS102,Principles of Marketing,Ms. Farida El-Sayed,Department of Business Administration,Tuesday,4:20 PM - 5:50 PM,C-103
+BUS201,Financial Accounting,Dr. David Zaher,Department of Business Administration,Monday,11:20 AM - 12:50 PM,C-106
+BUS210,Managerial Economics,Dr. Youssef Ezzat,Department of Business Administration,Wednesday,8:00 AM - 9:30 AM,C-109
+BUS220,Business Statistics,Dr. Youssef Ezzat,Department of Business Administration,Monday,11:20 AM - 12:50 PM,C-110
+BUS301,Corporate Finance,Dr. David Zaher,Department of Business Administration,Sunday,9:40 AM - 11:10 AM,C-112
+BUS310,Organizational Behavior,Ms. Farida El-Sayed,Department of Business Administration,Wednesday,8:00 AM - 9:30 AM,C-114
+BUS320,Entrepreneurship & Innovation,Ms. Farida El-Sayed,Department of Business Administration,Wednesday,11:20 AM - 12:50 PM,C-117
+BUS401,Strategic Management,Dr. Hossam Wahba,Department of Business Administration,Wednesday,8:00 AM - 9:30 AM,C-120
+ARC101,Architectural Design Studio I,Dr. Youssef Rashad,Department of Architecture & Design,Wednesday,4:20 PM - 5:50 PM,D-102
+ARC102,Architectural Design Studio II,Ms. Hala Abou-Zeid,Department of Architecture & Design,Sunday,8:00 AM - 9:30 AM,D-103
+ARC201,History of Architecture,Dr. Youssef Rashad,Department of Architecture & Design,Tuesday,2:40 PM - 4:10 PM,D-104
+ARC210,Building Materials & Construction,Mr. David Marzouk,Department of Architecture & Design,Wednesday,2:40 PM - 4:10 PM,D-107
+ARC220,Structural Systems for Architects,Eng. Khaled Hegazy,Department of Architecture & Design,Tuesday,9:40 AM - 11:10 AM,D-110
+ARC301,Urban Planning Principles,Mr. Mostafa Wahba,Department of Architecture & Design,Wednesday,8:00 AM - 9:30 AM,D-112
+ARC310,Interior Design Studio,Ms. Nadia Shaker,Department of Architecture & Design,Wednesday,11:20 AM - 12:50 PM,D-114
+BME101,Introduction to Biomedical Engineering,Mr. David Nour,Department of Biomedical Engineering,Monday,11:20 AM - 12:50 PM,A-102
+BME201,Human Physiology for Engineers,Eng. Mohamed Daoud,Department of Biomedical Engineering,Tuesday,4:20 PM - 5:50 PM,A-104
+BME210,Biomedical Instrumentation,Ms. Mona Selim,Department of Biomedical Engineering,Sunday,1:00 PM - 2:30 PM,A-105
+BME220,Medical Imaging Systems,Eng. Mahmoud Fathallah,Department of Biomedical Engineering,Tuesday,11:20 AM - 12:50 PM,A-106
+BME301,Biomaterials,Dr. Peter Novak,Department of Biomedical Engineering,Thursday,8:00 AM - 9:30 AM,A-109
+BME310,Rehabilitation Engineering,Ms. Mona Selim,Department of Biomedical Engineering,Wednesday,1:00 PM - 2:30 PM,A-110
+MTH101,Calculus I,Ms. Fady Wahba,Department of Mathematics & Basic Sciences,Thursday,11:20 AM - 12:50 PM,B-103
+MTH102,Calculus II,Mr. Sherif Bishara,Department of Mathematics & Basic Sciences,Wednesday,8:00 AM - 9:30 AM,B-104
+MTH201,Linear Algebra,Dr. Mohamed Kader,Department of Mathematics & Basic Sciences,Thursday,9:40 AM - 11:10 AM,B-106
+MTH210,Differential Equations,Mr. Sherif Bishara,Department of Mathematics & Basic Sciences,Wednesday,8:00 AM - 9:30 AM,B-107
+MTH220,Probability & Statistics,Eng. Heba Naguib,Department of Mathematics & Basic Sciences,Monday,4:20 PM - 5:50 PM,B-108
+PHY101,Physics I - Mechanics,Dr. Mohamed Kader,Department of Mathematics & Basic Sciences,Thursday,8:00 AM - 9:30 AM,B-111
+PHY102,Physics II - Electromagnetism,Eng. Hassan Youssry,Department of Mathematics & Basic Sciences,Sunday,9:40 AM - 11:10 AM,B-112
+CHM101,General Chemistry,Mr. Sherif Bishara,Department of Mathematics & Basic Sciences,Sunday,4:20 PM - 5:50 PM,B-113
